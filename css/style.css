@@ -8,7 +8,7 @@
     /* overflow-x: hidden;     */
     }
     body{
-    overflow-x: hidden;
+/*     overflow-x: hidden; */
 
     }
     header{
@@ -673,7 +673,7 @@
     @media screen and (max-width: 800px){
 
         body{
-            overflow-x: hidden;
+/*             overflow-x: hidden; */
         }
         .logo img{
             width:20vw;
