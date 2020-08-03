@@ -12,7 +12,7 @@ hamburger.classList.toggle("toggle");
 });
 
 
-
+AOS.init();
 
 
 function write (obj, sentence, i, cb) {
