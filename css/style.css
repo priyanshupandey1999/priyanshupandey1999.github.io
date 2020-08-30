@@ -454,7 +454,7 @@ nav{
     font-weight: 600;
     color: white;
     font-weight: bolder;
-    text-decoration: none;
+    text-decoration: underline #0077FF;
 }
 .internship-company-name a:hover{
     color: #0077FF;
@@ -541,7 +541,7 @@ nav{
     color:#B8CBFF;
     font-size: 20px;
     /* font-weight: bolder; */
-    text-decoration: none;
+    text-decoration: underline #0077FF;
 }
 .mentor-organization a:hover{
     color: #0077FF;
@@ -627,7 +627,7 @@ nav{
     height:35vh;
     width:40vw;
     overflow: hidden;
-    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/porto.PNG");
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/xyz123-compressed.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -681,7 +681,7 @@ nav{
         font-weight: bolder;
     }
     .project-demo1{
-        background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("../Images/porto.PNG");
+        background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("../Images/xyz123-compressed.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height:40vh;
