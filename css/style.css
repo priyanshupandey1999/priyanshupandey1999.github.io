@@ -677,11 +677,11 @@ nav{
   
 @media screen and (max-width: 1100px) {
     .featured-project{
-        display: inline-flex;
+        display: block;
         font-weight: bolder;
     }
     .project-demo1{
-        background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("../Images/xyz123-compressed.jpg");
+        background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/xyz123-compressed.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height:40vh;
@@ -689,7 +689,7 @@ nav{
         /* overflow: hidden; */
     }
     .project-demo2{
-        background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ),url("../Images/tda.PNG");
+        background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/tda.PNG");
         background-repeat: no-repeat;
         background-size: cover;
         height:40vh;
@@ -698,9 +698,9 @@ nav{
     .project-intro{
         padding-top: 10px;
     }
-    .project-text{
+    /* .project-text{
         transform: translateX(-60vw);
-    }
+    } */
     .project-skill{
         margin: 0;
         padding: 5vh;
@@ -713,7 +713,7 @@ nav{
   
 @media screen and (max-width: 800px) {
     .project-demo1{
-        background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("../Images/xyz123-compressed.jpg");
+        background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/xyz123-compressed.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height:30vh;
@@ -721,7 +721,7 @@ nav{
         /* overflow: hidden; */
     }
     .project-demo2{
-        background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ),url("../Images/tda.PNG");
+        background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/tda.PNG");
         background-repeat: no-repeat;
         background-size: cover;
         height:30vh;
@@ -734,7 +734,7 @@ nav{
   
 @media screen and (max-width: 546px) {
     .project-demo1{
-        background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ),url("../Images/xyz123-compressed.jpg");
+        background: linear-gradient( rgba(187, 149, 149, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/xyz123-compressed.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height:30vh;
@@ -742,15 +742,15 @@ nav{
         /* overflow: hidden; */
     }
     .project-demo2{
-        background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ),url("../Images/tda.PNG");
+        background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/tda.PNG");
         background-repeat: no-repeat;
         background-size: cover;
         height:30vh;
         width:80vw;
     }
-    .project-text{
+    /* .project-text{
         transform: translateX(-70vw);
-    }
+    } */
     .project-intro{
         font-size: 15px;
         color:#CDCDCD;
