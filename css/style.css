@@ -713,7 +713,7 @@ nav{
   
 @media screen and (max-width: 800px) {
     .project-demo1{
-        background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("../Images/porto.PNG");
+        background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("../Images/xyz123-compressed.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height:30vh;
@@ -734,7 +734,7 @@ nav{
   
 @media screen and (max-width: 546px) {
     .project-demo1{
-        background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ),url("../Images/porto.PNG");
+        background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ),url("../Images/xyz123-compressed.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height:30vh;
