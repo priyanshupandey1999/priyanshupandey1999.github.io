@@ -683,7 +683,7 @@ nav{
     .project-demo1{
         background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/constructor.jpg");
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: 80vw 40vh;
         height:40vh;
         width:80vw;
         /* overflow: hidden; */
@@ -691,7 +691,7 @@ nav{
     .project-demo2{
         background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/tda.PNG");
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: 80vw 40vh;
         height:40vh;
         width:80vw;
     }
@@ -715,7 +715,7 @@ nav{
     .project-demo1{
         background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/constructor.jpg");
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: 80vw 30vh;
         height:30vh;
         width:80vw;
         /* overflow: hidden; */
@@ -723,7 +723,7 @@ nav{
     .project-demo2{
         background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/tda.PNG");
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: 80vw 30vh;
         height:30vh;
         width:80vw;
     }
@@ -736,7 +736,7 @@ nav{
     .project-demo1{
         background: linear-gradient( rgba(187, 149, 149, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/constructor.jpg");
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: 80vw 30vh;
         height:30vh;
         width:80vw;
         /* overflow: hidden; */
@@ -744,7 +744,7 @@ nav{
     .project-demo2{
         background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/tda.PNG");
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: 80vw 30vh;
         height:30vh;
         width:80vw;
     }
