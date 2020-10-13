@@ -627,7 +627,7 @@ nav{
     height:35vh;
     width:40vw;
     overflow: hidden;
-    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/xyz123-compressed.jpg");
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/constructor.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -681,7 +681,7 @@ nav{
         font-weight: bolder;
     }
     .project-demo1{
-        background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/xyz123-compressed.jpg");
+        background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/constructor.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height:40vh;
@@ -713,7 +713,7 @@ nav{
   
 @media screen and (max-width: 800px) {
     .project-demo1{
-        background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/xyz123-compressed.jpg");
+        background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/constructor.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height:30vh;
