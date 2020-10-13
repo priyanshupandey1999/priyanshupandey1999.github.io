@@ -734,7 +734,7 @@ nav{
   
 @media screen and (max-width: 546px) {
     .project-demo1{
-        background: linear-gradient( rgba(187, 149, 149, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/xyz123-compressed.jpg");
+        background: linear-gradient( rgba(187, 149, 149, 0.2), rgba(0, 0, 0, 0.2) ),url("../Images/constructor.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height:30vh;
