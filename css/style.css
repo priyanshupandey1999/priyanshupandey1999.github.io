@@ -245,12 +245,12 @@ nav{
     font-size: 90px;
 }
 .header-text3{
-    color:#617A9D;
+    color:#93c0ff;
     font-size: 70px;
 }
 .header-text4{
     font-size: 20px;
-    color:#687483;
+    color:#95a5b9;
     max-width: 25vw;
     padding: 5vh 0;
 }
@@ -396,7 +396,7 @@ nav{
 }
 .skill-name{
     text-align: center;
-    color: #0077FF;
+    color: #70b3ff;
     margin:3vh 0 5vh 0;
     /* margin: auto; */
 }
@@ -486,7 +486,7 @@ nav{
 .internship-work ul li{
     overflow-x: visible;
     font-size: 20px;
-    color: #B8CBFF;
+    color: #FFF;
     margin:3vh 0;
     display: grid;
     grid-template-columns: 1fr 8fr;
@@ -603,12 +603,12 @@ nav{
     font-size: 20px;
 }
 .responsibility-duration{
-    color:#0077FF;
+    color:#e7f2ff;
     font-size: 20px;
     margin:10px 20px;
 }
 .responsibility-text{
-    color:#687483;
+    color:#d2e6ff;
     font-size: 20px;
     margin:10px 20px;
 }
@@ -797,7 +797,7 @@ nav{
 }
 .project-name{
     font-size: 20px;
-    color:#0077FF;
+    color:#63ff63;
     margin:3vh 0;
     font-weight: bolder;
 }
@@ -831,7 +831,7 @@ nav{
 .other-project-skill{
     padding:0;
     font-size: 15px;
-    color:#789cc5;
+    color:#ebff00;
     margin:2vh;
 }
 
@@ -884,7 +884,7 @@ nav{
     text-align: center;
     margin:10vh 20vw;
     font-size: 25px;
-    color:#B8CBFF;
+    color:#97fff7;
 }
 
 /* *****featured project section with size less than 600px***** */
@@ -954,7 +954,7 @@ nav{
     text-align: center;
     font-size: 30px;
     font-weight: bolder;
-    color:#0077FF;
+    color:#e91e63;
 }
 
 
