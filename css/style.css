@@ -786,6 +786,7 @@ nav{
     background-color: #1A3A5A;
     text-align: center;
     margin:3vh 1vw;
+    border-radius: 20px;
     /* height:40vh; */
     /* height:80%; */
 }
