@@ -916,10 +916,6 @@ nav {
   color: #e91e63;
 }
 
-.gif {
-  width: 20vw;
-}
-
 .design-name {
   color: white;
   font-size: 20px;
@@ -932,4 +928,21 @@ nav {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   margin: 5vh 10vw;
+}
+
+.gif {
+  width: 20vw;
+}
+
+@media screen and (max-width: 746px) {
+  .gif {
+    width: 80vw;
+  }
+  .other-designs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 5vh auto;
+  }
 }
