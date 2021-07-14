@@ -928,10 +928,11 @@ nav {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   margin: 5vh 10vw;
+  column-gap: 20px;
 }
 
 .gif {
-  width: 20vw;
+  width: 100%;
 }
 
 @media screen and (max-width: 746px) {
